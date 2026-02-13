@@ -4,22 +4,7 @@ namespace chapter3;
 
 public class StringSample
 {
-    static void Main()
-    {
-        Console.WriteLine("=== start string literal sample ===");
-        StringLiteralSample();
-        Console.WriteLine("=== end string literal sample ===");
-
-        Console.WriteLine("=== start raw string literal sample ===");
-        RawStringLiteralSample();
-        Console.WriteLine("=== end raw string literal sample ===");
-
-        Console.WriteLine("=== start UTF-8 literal sample ===");
-        UTF8LiteralSample();
-        Console.WriteLine("=== end UTF-8 literal sample ===");
-    }
-
-    static void StringLiteralSample()
+    public static void StringLiteralSample()
     {
         string path1 = "c:\\user\\test\\sample.cs";
         Console.WriteLine(path1);
@@ -33,7 +18,7 @@ public class StringSample
         Console.WriteLine(path3);
     }
 
-    static void RawStringLiteralSample()
+    public static void RawStringLiteralSample()
     {
         var oldHTML = @"
 <html>
@@ -60,7 +45,7 @@ public class StringSample
         Console.WriteLine(newHTML);
     }
 
-    static void UTF8LiteralSample()
+    public static void UTF8LiteralSample()
     {
         var oldUTF8String = System.Text.Encoding.UTF8.GetBytes("Hello, C#!");
         Console.WriteLine(BitConverter.ToString(oldUTF8String));
