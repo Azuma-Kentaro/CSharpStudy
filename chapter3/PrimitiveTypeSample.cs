@@ -6,6 +6,9 @@ public class PrimitiveTypeSample
 {
     static void Main()
     {
+
+        IntegerSample.IntegerTypeSample();
+
         Console.WriteLine("=== start string literal sample ===");
         StringSample.StringLiteralSample();
         Console.WriteLine("=== end string literal sample ===");
