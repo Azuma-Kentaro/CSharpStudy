@@ -7,6 +7,6 @@ public class Chapter3Sample
     static void Main()
     {
         PrimitiveTypeSample.PrimitiveTypeSampleMain();
-        EnumSample.EnumSampleMain();
+        UserDefinedTypeSample.UserDefinedTypeSampleMain();
     }
 }
