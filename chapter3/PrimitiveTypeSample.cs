@@ -4,7 +4,7 @@ namespace chapter3;
 
 public class PrimitiveTypeSample
 {
-    static void Main()
+    public static void PrimitiveTypeSampleMain()
     {
 
         IntegerSample.IntegerTypeSample();
