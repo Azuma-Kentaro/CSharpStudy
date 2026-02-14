@@ -6,6 +6,8 @@ public class Chapter5Sample
 {
     static void Main()
     {
-        Console.WriteLine("Hello, chapter5");
+        SwitchExample.SwitchStatementExample();
+        SwitchExample.SwitchStatementWithWhenExample();
+        SwitchExample.SwitchExpressionWithWhenExample();
     }
 }
