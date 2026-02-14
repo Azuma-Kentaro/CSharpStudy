@@ -6,6 +6,6 @@ public class Chapter4Sample
 {
     static void Main()
     {
-        Console.WriteLine("Hello, chapter4");
+        BitShiftSample.BitShiftSampleMain();
     }
 }
