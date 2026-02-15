@@ -7,5 +7,6 @@ public class Chapter6Sample
     static void Main()
     {
         MethodSample.MethodSampleMain();
+        CallByValueSample.CallByValueSampleMain();
     }
 }
