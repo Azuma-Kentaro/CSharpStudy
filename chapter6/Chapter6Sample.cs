@@ -8,5 +8,6 @@ public class Chapter6Sample
     {
         MethodSample.MethodSampleMain();
         CallByValueSample.CallByValueSampleMain();
+        CallByReferenceSample.CallByReferenceSampleMain();
     }
 }
