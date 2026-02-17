@@ -3,4 +3,5 @@
   <Project Path="chapter3/chapter3.csproj" />
   <Project Path="chapter4/chapter4.csproj" />
   <Project Path="chapter5/chapter5.csproj" />
+  <Project Path="chapter6/chapter6.csproj" />
 </Solution>
