@@ -59,4 +59,22 @@ public class ClassCastSample
             Console.WriteLine("player is null");
         }
     }
+
+    public static void PolymorphismSampleMain()
+    {
+        // 暗黙のアップキャストによって
+        // 派生クラスであるEnemy型のインスタンスを
+        // 基本クラスのmob型変数に代入する。
+        Mob mob1 = new Enemy();
+
+        // 変数はmob型だが、実際にはEnemy型のインスタンスであるため、
+        // PrintInfoはEnemy型で定義したものが呼び出される。
+        mob1.PrintInfo();
+
+        // Player型のPrintInfoはnewで隠蔽した。
+        // 隠蔽の場合はポリモーフィズムが適用されず、
+        // PrinfInfoはMob型で定義したものが呼び出される。
+        Mob mob2 = new Player();
+        mob2.PrintInfo();
+    }
 }
