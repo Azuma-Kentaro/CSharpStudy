@@ -6,6 +6,6 @@ public class Chapter8Sample
 {
     static void Main()
     {
-        Console.WriteLine("Hello, chapter8");
+        ClassCastSample.ClassCastSampleMain();
     }
 }
