@@ -7,5 +7,6 @@ public class Chapter8Sample
     static void Main()
     {
         ClassCastSample.ClassCastSampleMain();
+        ObjectBoxSample.ObjectBoxSampleMain();
     }
 }
