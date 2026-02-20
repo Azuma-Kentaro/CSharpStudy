@@ -9,5 +9,6 @@ public class Chapter8Sample
         ClassCastSample.ClassCastSampleMain();
         ClassCastSample.PolymorphismSampleMain();
         ObjectBoxSample.ObjectBoxSampleMain();
+        AbstractClassSample.AbstractClassSampleMain();
     }
 }
