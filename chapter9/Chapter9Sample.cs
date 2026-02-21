@@ -8,5 +8,6 @@ public class Chapter9Sample
     {
         SimpleExceptionSample.SimpleExceptionSampleMain();
         ExceptionFilterSample.ExceptionFilterSampleMain();
+        UserDefinedExceptionSample.UserDefinedExceptionSampleMain();
     }
 }
