@@ -10,5 +10,6 @@ public class Chapter9Sample
         ExceptionFilterSample.ExceptionFilterSampleMain();
         UserDefinedExceptionSample.UserDefinedExceptionSampleMain();
         PropagateExceptionSample.PropagateExceptionSampleMain();
+        ThrowExpressionSample.ThrowExpressionSampleMain();
     }
 }
