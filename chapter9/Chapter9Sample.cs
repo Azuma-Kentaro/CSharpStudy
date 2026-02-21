@@ -6,6 +6,6 @@ public class Chapter9Sample
 {
     static void Main()
     {
-        Console.WriteLine("Hello, chapter9");
+        SimpleExceptionSample.SimpleExceptionSampleMain();
     }
 }
