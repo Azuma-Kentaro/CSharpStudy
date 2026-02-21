@@ -10,5 +10,9 @@ public class Chapter8Sample
         ClassCastSample.PolymorphismSampleMain();
         ObjectBoxSample.ObjectBoxSampleMain();
         AbstractClassSample.AbstractClassSampleMain();
+        SimpleInterfaceSample.SimpleInterfaceSampleMain();
+        InheritInterfaceSample.InheritInterfaceSampleMain();
+        ConflictInterfaceMethodSample.ConflictInterfaceMethodSampleMain();
+        DefaultDefinitionInterfaceSample.DefaultDefinitionInterfaceSampleMain();
     }
 }
