@@ -11,5 +11,6 @@ public class Chapter9Sample
         UserDefinedExceptionSample.UserDefinedExceptionSampleMain();
         PropagateExceptionSample.PropagateExceptionSampleMain();
         ThrowExpressionSample.ThrowExpressionSampleMain();
+        CheckedUnCheckedSample.CheckedUnCheckedSampleMain();
     }
 }
