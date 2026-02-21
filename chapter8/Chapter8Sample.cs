@@ -14,5 +14,6 @@ public class Chapter8Sample
         InheritInterfaceSample.InheritInterfaceSampleMain();
         ConflictInterfaceMethodSample.ConflictInterfaceMethodSampleMain();
         DefaultDefinitionInterfaceSample.DefaultDefinitionInterfaceSampleMain();
+        TypeSwitchSample.TypeSwitchSampleMain();
     }
 }
