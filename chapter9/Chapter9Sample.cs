@@ -7,5 +7,6 @@ public class Chapter9Sample
     static void Main()
     {
         SimpleExceptionSample.SimpleExceptionSampleMain();
+        ExceptionFilterSample.ExceptionFilterSampleMain();
     }
 }
