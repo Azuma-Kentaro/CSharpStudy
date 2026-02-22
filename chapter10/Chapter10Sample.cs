@@ -10,5 +10,6 @@ public class Chapter10Sample
         StructSample.StructSampleMain();
         TupleSample.TupleSampleMain();
         NullableSample.NullableSampleMain();
+        RecordSample.RecordSampleMain();
     }
 }
