@@ -7,5 +7,6 @@ public class Chapter10Sample
     static void Main()
     {
         ArraySample.ArraySampleMain();
+        StructSample.StructSampleMain();
     }
 }
