@@ -6,6 +6,6 @@ public class Chapter10Sample
 {
     static void Main()
     {
-        Console.WriteLine("Hello, chapter10");
+        ArraySample.ArraySampleMain();
     }
 }
