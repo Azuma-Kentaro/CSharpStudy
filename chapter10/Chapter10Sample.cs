@@ -8,5 +8,6 @@ public class Chapter10Sample
     {
         ArraySample.ArraySampleMain();
         StructSample.StructSampleMain();
+        TupleSample.TupleSampleMain();
     }
 }
