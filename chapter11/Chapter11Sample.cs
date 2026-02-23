@@ -13,5 +13,6 @@ public class Chapter11Sample
         EventSample.EventSampleMain();
         ExtendMethodSample.ExtendMethodSampleMain();
         DLRSample.DLRSampleMain();
+        PatternMatchSample.PatternMatchSampleMain();
     }
 }
