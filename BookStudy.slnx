@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="chapter10/chapter10.csproj" />
+  <Project Path="chapter11/chapter11.csproj" />
   <Project Path="chapter2/chapter2.csproj" />
   <Project Path="chapter3/chapter3.csproj" />
   <Project Path="chapter4/chapter4.csproj" />
