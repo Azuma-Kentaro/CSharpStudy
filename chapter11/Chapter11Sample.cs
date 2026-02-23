@@ -14,5 +14,6 @@ public class Chapter11Sample
         ExtendMethodSample.ExtendMethodSampleMain();
         DLRSample.DLRSampleMain();
         PatternMatchSample.PatternMatchSampleMain();
+        AsyncSample.AsyncSampleMain();
     }
 }
