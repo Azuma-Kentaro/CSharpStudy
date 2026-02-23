@@ -9,5 +9,6 @@ public class Chapter11Sample
         DelegateSample.DelegateSampleMain();
         LambdaSample.LambdaSampleMain();
         EventSample.EventSampleMain();
+        ExtendMethodSample.ExtendMethodSampleMain();
     }
 }
