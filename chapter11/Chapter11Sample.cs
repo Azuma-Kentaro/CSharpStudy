@@ -1,5 +1,7 @@
 ﻿using System;
 
+using chapter11_DLRSample;
+
 namespace chapter11;
 
 public class Chapter11Sample
@@ -10,5 +12,6 @@ public class Chapter11Sample
         LambdaSample.LambdaSampleMain();
         EventSample.EventSampleMain();
         ExtendMethodSample.ExtendMethodSampleMain();
+        DLRSample.DLRSampleMain();
     }
 }
