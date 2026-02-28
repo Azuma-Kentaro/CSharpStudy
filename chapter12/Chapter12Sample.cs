@@ -8,5 +8,6 @@ public class Chapter12Sample
     {
         LinqSample.LinqSampleMain();
         YieldSample.YieldSampleMain();
+        FileSample.FileSampleMain();
     }
 }
