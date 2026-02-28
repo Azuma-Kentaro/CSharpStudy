@@ -6,6 +6,6 @@ public class Chapter12Sample
 {
     static void Main()
     {
-        Console.WriteLine("Hello, chapter12");
+        LinqSample.LinqSampleMain();
     }
 }
