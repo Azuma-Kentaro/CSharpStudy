@@ -7,5 +7,6 @@ public class Chapter12Sample
     static void Main()
     {
         LinqSample.LinqSampleMain();
+        YieldSample.YieldSampleMain();
     }
 }
